@@ -1,0 +1,160 @@
+﻿ 
+*LOAD*Thursday, December 27, 2018 10:00:01 AM
+btnHelpClickThursday, December 27, 2018 10:09:42 AM
+btnAboutClickThursday, December 27, 2018 10:09:46 AM
+OpenChatFormThursday, December 27, 2018 10:19:18 AM
+Open connect Port: 1999 10:19 AM
+OpenFormRemote Thursday, December 27, 2018 10:19:18 AM
+cbxMouse_CheckThursday, December 27, 2018 10:43:58 AM
+cbxKeyBoard_CheckThursday, December 27, 2018 10:43:59 AM
+cbxMouse_UnCheckThursday, December 27, 2018 10:47:25 AM
+cbxKeyBoard_UnCheckThursday, December 27, 2018 10:47:26 AM
+FormRemoteClose Thursday, December 27, 2018 10:47:28 AM
+FormChatCloseThursday, December 27, 2018 10:47:29 AM
+BtnFormClose Thursday, December 27, 2018 10:47:29 AM
+ 
+*LOAD*Thursday, December 27, 2018 10:47:45 AM
+OpenChatFormThursday, December 27, 2018 10:47:46 AM
+Open connect Port: 1999 10:47 AM
+OpenFormRemote Thursday, December 27, 2018 10:47:46 AM
+Try Connect IP: 10.45.27.31, Port: 1999 10:48 AM
+OpenChatFormThursday, December 27, 2018 10:48:48 AM
+Connected IP: 10.45.27.31, Port: 1999 10:48 AM
+ShareScreen: IP: 10.45.27.31, Port: 1999 10:48 AM
+StopShareScreen: IP: 10.45.27.31, Port: 1999 10:48 AM
+ShareScreen: IP: 10.45.27.31, Port: 1999 10:48 AM
+FormRemoteClose Thursday, December 27, 2018 10:50:25 AM
+FormChatCloseThursday, December 27, 2018 10:50:25 AM
+FormChatCloseThursday, December 27, 2018 10:50:25 AM
+BtnFormClose Thursday, December 27, 2018 10:50:25 AM
+ 
+*LOAD*Thursday, December 27, 2018 10:51:29 AM
+OpenChatFormThursday, December 27, 2018 10:51:50 AM
+Open connect Port: 1999 10:51 AM
+OpenFormRemote Thursday, December 27, 2018 10:51:50 AM
+Try Connect IP: 10.10.123.26, Port: 1999 10:53 AM
+OpenChatFormThursday, December 27, 2018 10:53:23 AM
+Connected IP: 10.10.123.26, Port: 1999 10:53 AM
+FormChatCloseThursday, December 27, 2018 10:53:27 AM
+ShareScreen: IP: 10.10.123.26, Port: 1999 10:53 AM
+StopShareScreen: IP: 10.10.123.26, Port: 1999 10:53 AM
+ShareScreen: IP: 10.10.123.26, Port: 1999 10:53 AM
+FormRemoteClose Thursday, December 27, 2018 10:54:41 AM
+StopShareScreen: IP: 10.10.123.26, Port: 1999 10:54 AM
+Try Connect IP: 10.10.123.26, Port: 1999 10:55 AM
+OpenChatFormThursday, December 27, 2018 10:55:09 AM
+Connected IP: 10.10.123.26, Port: 1999 10:55 AM
+ShareScreen: IP: 10.10.123.26, Port: 1999 10:55 AM
+FormChatCloseThursday, December 27, 2018 10:56:13 AM
+FormChatCloseThursday, December 27, 2018 10:58:43 AM
+BtnFormClose Thursday, December 27, 2018 10:58:46 AM
+ 
+*LOAD*Thursday, December 27, 2018 11:05:00 AM
+Try Connect IP: 10.10.123.26, Port: 1999 11:11 AM
+OpenChatFormThursday, December 27, 2018 11:11:13 AM
+Connected IP: 10.10.123.26, Port: 1999 11:11 AM
+ShareScreen: IP: 10.10.123.26, Port: 1999 11:11 AM
+StopShareScreen: IP: 10.10.123.26, Port: 1999 11:23 AM
+FormChatCloseThursday, December 27, 2018 11:30:12 AM
+BtnFormClose Thursday, December 27, 2018 11:30:12 AM
+ 
+*LOAD*Thursday, December 27, 2018 11:30:21 AM
+OpenChatFormThursday, December 27, 2018 11:30:25 AM
+Open connect Port: 1999 11:30 AM
+OpenFormRemote Thursday, December 27, 2018 11:30:25 AM
+ 
+*LOAD*Thursday, December 27, 2018 11:30:31 AM
+OpenChatFormThursday, December 27, 2018 11:30:33 AM
+Open connect Port: 1999 11:30 AM
+OpenFormRemote Thursday, December 27, 2018 11:30:33 AM
+FormRemoteClose Thursday, December 27, 2018 11:30:36 AM
+FormChatCloseThursday, December 27, 2018 11:30:36 AM
+BtnFormClose Thursday, December 27, 2018 11:30:37 AM
+ 
+*LOAD*Thursday, December 27, 2018 11:32:26 AM
+btnUpdateClickThursday, December 27, 2018 11:32:28 AM
+ 
+*LOAD*Thursday, December 27, 2018 11:33:50 AM
+ 
+*LOAD*Thursday, December 27, 2018 11:34:40 AM
+btnUpdateClickThursday, December 27, 2018 11:34:43 AM
+ 
+*LOAD*Thursday, December 27, 2018 11:36:24 AM
+btnUpdateClickThursday, December 27, 2018 11:36:28 AM
+ 
+*LOAD*Thursday, December 27, 2018 11:39:35 AM
+btnUpdateClickThursday, December 27, 2018 11:39:41 AM
+ 
+*LOAD*Thursday, December 27, 2018 11:40:11 AM
+btnUpdateClickThursday, December 27, 2018 11:40:13 AM
+ 
+*LOAD*Thursday, December 27, 2018 11:49:21 AM
+ 
+*LOAD*Thursday, December 27, 2018 1:20:19 PM
+btnHelpClickThursday, December 27, 2018 1:20:24 PM
+btnAboutClickThursday, December 27, 2018 1:20:32 PM
+btnUpdateClickThursday, December 27, 2018 1:20:47 PM
+ 
+*LOAD*Thursday, December 27, 2018 1:21:42 PM
+btnUpdateClickThursday, December 27, 2018 1:21:44 PM
+btnUpdateClickThursday, December 27, 2018 1:21:49 PM
+btnUpdateClickThursday, December 27, 2018 1:21:56 PM
+btnUpdateClickThursday, December 27, 2018 1:22:03 PM
+btnAboutClickThursday, December 27, 2018 1:22:12 PM
+btnExitClickThursday, December 27, 2018 1:22:17 PM
+BtnFormClose Thursday, December 27, 2018 1:22:17 PM
+ 
+*LOAD*Thursday, December 27, 2018 1:30:13 PM
+btnUpdateClickThursday, December 27, 2018 1:36:01 PM
+btnUpdateClickThursday, December 27, 2018 1:36:07 PM
+btnUpdateClickThursday, December 27, 2018 1:36:23 PM
+btnUpdateClickThursday, December 27, 2018 1:36:27 PM
+btnUpdateClickThursday, December 27, 2018 1:39:47 PM
+btnUpdateClickThursday, December 27, 2018 1:40:47 PM
+btnUpdateClickThursday, December 27, 2018 1:41:27 PM
+btnUpdateClickThursday, December 27, 2018 1:41:46 PM
+btnUpdateClickThursday, December 27, 2018 1:42:06 PM
+btnUpdateClickThursday, December 27, 2018 1:42:24 PM
+btnAboutClickThursday, December 27, 2018 1:46:27 PM
+BtnFormClose Thursday, December 27, 2018 1:48:10 PM
+ 
+*LOAD*Thursday, December 27, 2018 1:48:31 PM
+btnUpdateClickThursday, December 27, 2018 1:48:32 PM
+btnAboutClickThursday, December 27, 2018 1:48:38 PM
+BtnFormClose Thursday, December 27, 2018 1:51:05 PM
+ 
+*LOAD*Thursday, December 27, 2018 1:51:10 PM
+btnAboutClickThursday, December 27, 2018 1:51:13 PM
+BtnFormClose Thursday, December 27, 2018 1:51:17 PM
+ 
+*LOAD*Thursday, December 27, 2018 1:51:24 PM
+btnAboutClickThursday, December 27, 2018 1:51:26 PM
+btnUpdateClickThursday, December 27, 2018 2:37:25 PM
+BtnFormClose Thursday, December 27, 2018 2:37:31 PM
+ 
+*LOAD*Thursday, December 27, 2018 3:25:38 PM
+btnUpdateClickThursday, December 27, 2018 3:25:40 PM
+ 
+*LOAD*Thursday, December 27, 2018 3:26:36 PM
+btnUpdateClickThursday, December 27, 2018 3:26:38 PM
+BtnFormClose Thursday, December 27, 2018 3:26:48 PM
+ 
+*LOAD*Thursday, December 27, 2018 3:29:17 PM
+btnUpdateClickThursday, December 27, 2018 3:29:20 PM
+ 
+*LOAD*Thursday, December 27, 2018 7:50:26 PM
+OpenChatFormThursday, December 27, 2018 7:50:46 PM
+Open connect Port: 1999 7:50 PM
+OpenFormRemote Thursday, December 27, 2018 7:50:46 PM
+ 
+*LOAD*Thursday, December 27, 2018 10:37:32 PM
+btnUpdateClickThursday, December 27, 2018 10:37:34 PM
+BtnFormClose Thursday, December 27, 2018 10:38:03 PM
+ 
+*LOAD*Friday, December 28, 2018 10:25:56 AM
+btnUpdateClickFriday, December 28, 2018 10:25:57 AM
+BtnFormClose Friday, December 28, 2018 10:26:14 AM
+ 
+*LOAD*Friday, December 28, 2018 10:27:17 AM
+btnUpdateClickFriday, December 28, 2018 10:27:20 AM
+BtnFormClose Friday, December 28, 2018 10:27:29 AM
